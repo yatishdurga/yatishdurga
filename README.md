@@ -1,4 +1,5 @@
 ### Hi there 👋
+Aspiring Data Scientist advancing expertise at the University of Central Missouri with 2.5 years of experience as an ETL Developer. Built and optimized data pipelines, increasing data processing efficiency by 20%. Managed complex databases using Python, SQL, and Linux, resulting in a 15% reduction in data retrieval times. Leveraged Tableau and Power BI to create data visualizations that improved business decision-making by 25%. Skilled in mentoring junior data scientists and identifying data-driven opportunities to drive business growth.
 
 <!--
 **yatishdurga/yatishdurga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
